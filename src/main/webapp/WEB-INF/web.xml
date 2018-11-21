@@ -16,10 +16,6 @@
     	<servlet-class>SampleLogin.SampleLogin.SampleLogin</servlet-class>
     </servlet>
     <servlet-mapping>
-    	<servlet-name>Logincontroler</servlet-name>
-    	<url-pattern>/Logincontroler</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
     	<servlet-name>SampleLogin</servlet-name>
     	<url-pattern>/SampleLogin</url-pattern>
     </servlet-mapping>
